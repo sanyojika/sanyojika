@@ -7,15 +7,15 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <a href="https://twitter.com/ssanyojika" target="blank"><img src="https://img.shields.io/twitter/follow/ssanyojika?logo=twitter&style=for-the-badge" alt="ssanyojika" /></a> </p>
 
-- 🌱 I’m currently learning **SharePoint Frameworks**
+- 🌱 I’m currently learning **SharePoint Frameworks !**
 
 - 📝 I regularly write articles on [sanyojika.blogspot.com](sanyojika.blogspot.com)
 
-- 💬 Ask me about **SharePoint & PowerApps**
+- 💬 Ask me about **SharePoint & PowerApps !**
 
 - 📫 How to reach me **Ssanyojika@gmail.com**
 
-- ⚡ Fun fact **Workaholic**
+- ⚡ Fun fact **Workaholic !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
