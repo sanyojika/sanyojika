@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SharePoint Frameworks !**
 
-- 📝 I regularly write articles on (sanyojika.blogspot.com)
+- 📝 I regularly write articles on [sanyojika.blogspot.com](sanyojika.blogspot.com)
 
 - 💬 Ask me about **SharePoint & PowerApps !**
 
