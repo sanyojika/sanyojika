@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **SharePoint Frameworks !**
 
-- 📝 I regularly write articles on [sanyojika.blogspot.com](sanyojika.blogspot.com)
+- 📝 I regularly write articles on (sanyojika.blogspot.com)
 
 - 💬 Ask me about **SharePoint & PowerApps !**
 
-- 📫 How to reach me **Ssanyojika@gmail.com**
+- 📫 How to reach me **ssanyojika@gmail.com**
 
 - ⚡ Fun fact **Workaholic !!**
 
